@@ -4,7 +4,8 @@
 
 Dymension позволяет легко развертывать свои собственные блокчейны, называемые RollApps
 Dymension Hub является расчетным уровнем протокола и действует как децентрализованный источник истины для сети. Dymension Hub - это блокчейн Proof of Stake, который обеспечивает консенсус, безопасность и ликвидность для RollApps
-[Docs] (https://docs.dymension.xyz/) \
+
+[Docs](https://docs.dymension.xyz/) \
 [WEBSITE](https://dymension.xyz/) \
 [EXPLORER](https://exp.utsa.tech/dymension-test)
 - **Требования**:
